@@ -2,4 +2,4 @@
 - 👀 I’m interested in Frontend Development and Block Chain and Cloud Computing 
 - 🌱 I’m currently learning Computer Science and Design 
 - 💞️ I’m looking to collaborate on Open Source Collabrations and Frontend Development 
-- 📫 How to reach me : bento.me 
+- 📫 How to reach me : bento.me/lohithsr
