@@ -4,7 +4,7 @@ I'm a **B.Tech final year student** with a passion for **Data Analysis**, **AI &
 
 - 🔭 I’m currently working on **Blind Assistance using Pi and YOLOv8**
 - 🌱 I’m currently learning **Advanced SQL, Power BI, and Machine Learning**
-- 💼 Check out my latest project on **Power BI** [here](https://github.com/your-repository)
+- 💼 Check out my latest project on **Power BI** [here](https://github.com/LohithSR/Power-BI-Classic-Cafe-Corner-Sales.git)
 - ⚡ Fun fact: I'm also a poetry enthusiast and working on a book about love and emotions.
 
 ## 🚀 Skills and Technologies
